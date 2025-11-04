@@ -53,9 +53,9 @@ Evaluate the model on the test set by analyzing accuracy, loss curves, confusion
 
 ## PROGRAM
 
-**Name:** PRANAV K
+**Name:** Selva Kani R
 
-**Register Number:** 2305001026
+**Register Number:** 2305002020
 
 ```
 import numpy as np
